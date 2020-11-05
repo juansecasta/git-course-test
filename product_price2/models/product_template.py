@@ -6,5 +6,5 @@ class NewModule(models.Model):
     _inherit = 'product.template'
 
     price_2 = fields.Monetary(string="Precio 2")
-
+    #prueba rama test
 
